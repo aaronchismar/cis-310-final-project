@@ -51,3 +51,20 @@ ALU Control:
 S1, S0 (selects ALU operation)
 
 Cin (carry-in bit for arithmetic operations)
+
+
+4-bit-processor test - running arithmetic operations:
+Increment A
+Increment B
+Increment B
+SUB B, A, C
+
+Test Circuit:
+<img width="817" alt="Screenshot 2025-04-16 at 8 22 59 PM" src="https://github.com/user-attachments/assets/2bed96f7-5c0e-420b-ab4f-137fd90cafb2" />
+
+Test Results: 
+<img width="818" alt="Screenshot 2025-04-16 at 8 23 37 PM" src="https://github.com/user-attachments/assets/0252f080-3525-411e-9616-e0409f2af9f9" />
+
+
+
+
